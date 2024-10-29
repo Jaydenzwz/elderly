@@ -1,4 +1,4 @@
-# FestiSolutions-Celebra-Testing
+# Digital Care
 Integrantes:
 - Finizzio Aguilera, Stefanie Saray. (U202126134)
 - Salgado Vargas, Angel Julio Antonio. (U202221231)
