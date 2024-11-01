@@ -1,5 +1,5 @@
 Feature: Asignar niveles de prioridad
-
+a
 Scenario: Configuración de niveles de prioridad en alertas
     Given el usuario accede a la configuración de alertas
     And selecciona niveles de prioridad para diferentes tipos de anomalías
